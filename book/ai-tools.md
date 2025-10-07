@@ -21,6 +21,8 @@
 **<a id="note-about-proxies" />A note about proxies**
 
  If you can provide an OPENAI_BASE_URL, you can re-point most of these tools to any model, EXCEPT where the URL structures differ:
- - In 2025, OpenAI started 
+ - In 2025, OpenAI started utilizing `/v1/responses` instead of `/v1/chat/completions`. This breaks compatibility with some models (ref: [1](https://github.com/openai/codex/issues/14) [2](https://github.com/openai/codex/issues/26)).
+ - 
+You can get around most/all of these issues by utilizing a tool like [open-responses ](https://github.com/open-responses/open-responses) to provide a compatibility layer for those that don't support it
 
 If you want to provide a consistent endpoint regardless of the provider, consider hosting an instance of a [LightLLM Proxy](https://docs.litellm.ai/docs/simple_proxy)
