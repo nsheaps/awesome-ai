@@ -13,3 +13,4 @@
 | [sst/opencode](https://github.com/sst/opencode) |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) |
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) |
+| [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) |
