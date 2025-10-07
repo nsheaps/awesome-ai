@@ -6,5 +6,5 @@
 
 | CLI framework | Works with |
 | --- | --- |
-| anthropics/claude-code | any provider via [claude-code-router](https://github.com/musistudio/claude-code-router) |
+| anthropics/claude-code | via [claude-code-router](https://github.com/musistudio/claude-code-router):<br> |
 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 
