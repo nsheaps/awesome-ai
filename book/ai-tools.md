@@ -21,6 +21,6 @@
 **<a id="note-about-proxies" />A note about proxies**
 
  If you can provide an OPENAI_BASE_URL, you can re-point most of these tools to any model, EXCEPT where the URL structures differ:
- 
+ - In 2025, OpenAI started 
 
 If you want to provide a consistent endpoint regardless of the provider, consider hosting an instance of a [LightLLM Proxy](https://docs.litellm.ai/docs/simple_proxy)
