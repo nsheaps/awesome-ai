@@ -6,5 +6,5 @@
 
 | CLI framework | openrouter | deepseek | ollama | gemini | volcengine | modelscope | dashscope | aihubmix |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| anthropics/claude-code<br><sup>via [claude-code-router](https://github.com/musistudio/claude-code-router)</sup> | |
+| anthropics/claude-code<br><sup>via [claude-code-router](https://github.com/musistudio/claude-code-router)</sup> | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [charmbracelet/crush](https://github.com/charmbracelet/crush) |  
