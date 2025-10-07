@@ -7,4 +7,4 @@
 | CLI framework | Works with |
 | --- | --- |
 | anthropics/claude-code | any provider via [claude-code-router](https://github.com/musistudio/claude-code-router) |
-| charmbracelet/crush | 
+| [charmbracelet/crush](https://github.com/charmbracelet/crush) | 
