@@ -3,6 +3,8 @@
 | --- | --- | --- | --- |
 | Anthropic | [Claude.ai](https://claude.ai) | [claude-code](https://github.com/anthropics/claude-code)([docs](https://docs.claude.com/en/docs/claude-code/overview)) | [claude-code-action](https://github.com/anthropics/claude-code-action)(TBD) |
 | OpenAI | [ChatGPT](https://chatgpt.com) | [codex](https://github.com/openai/codex)
+| Gemini |
+| DeepSeek |
 
 | CLI framework | [openrouter](https://openrouter.ai) | [AiHubMix](https://aihubmix.com) | [AWS Bedrock](https://aws.amazon.com/bedrock/) | [ollama](https://ollama.ai/)<sup>self-hosted</sup> | [anthropic](https://console.anthropic.com/) / [claude](https://claude.ai/settings/claude-code) | [openai](https://platform.openai.com/) | [gemini](https://gemini.google.com/) | [deepseek](https://www.deepseek.com)<sup>🇨🇳</sup> | [volcengine](https://www.volcengine.cn/)<sup>🇨🇳</sup> | [modelscope](https://modelscope.cn)<sup>🇨🇳</sup> | [dashscope](https://dashscope.aliyun.com/)<sup>🇨🇳</sup>  | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
