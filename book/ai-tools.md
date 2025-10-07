@@ -11,4 +11,5 @@
 | anthropics/claude-code<br><sup>via [claude-code-router](https://github.com/musistudio/claude-code-router)</sup> | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [charmbracelet/crush](https://github.com/charmbracelet/crush) |
 | [sst/opencode](https://github.com/sst/opencode) |
-| 
+| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) |
+
