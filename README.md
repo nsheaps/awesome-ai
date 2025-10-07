@@ -7,6 +7,3 @@ If you are looking to contribute to this repo, see [CONTRIBUTING](./CONTRIBUTING
 The documentation in this repo can also be viewed on github pages:
 - For Humans: TBD https://nsheaps.github.io
 - For Agents: TBD
-
-
-Hello
