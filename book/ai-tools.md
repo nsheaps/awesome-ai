@@ -12,4 +12,4 @@
 | [charmbracelet/crush](https://github.com/charmbracelet/crush) |
 | [sst/opencode](https://github.com/sst/opencode) |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) |
-
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) |
