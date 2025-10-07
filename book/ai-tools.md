@@ -18,6 +18,8 @@
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)                                                         | ❔                                   | ❔                                                      | ❔                                | ❔                                              |               | ❔                                                                                              | ❔                                      | ❔                                    | ❔                                                   | ❔                                                       | ❔                                                  | ❔                                                         |
 | [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli)                                     | ❔                                   | ❔                                                      | ❔                                | ❔                                              |               | ❔                                                                                              | ❔                                      | ❔                                    | ❔                                                   | ❔                                                       | ❔                                                  | ❔                                                         |
 
+For a more complete list of providers, check out the [LiteLLM list](https://docs.litellm.ai/docs/providers).
+
 **<a id="note-about-proxies" />A note about proxies**
 
  If you can provide an OPENAI_BASE_URL, you can re-point most of these tools to any model, EXCEPT where the URL structures differ:
