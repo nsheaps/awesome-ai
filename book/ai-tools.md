@@ -5,6 +5,6 @@
 | OpenAI | [ChatGPT](https://chatgpt.com) | [codex](https://github.com/openai/codex)
 
 | CLI framework | openrouter | deepseek | ollama | gemini | volcengine | modelscope | dashscope | aihubmix |
-| --- | --- | --- | --- | --- | --- |
-| anthropics/claude-code | via [claude-code-router](https://github.com/musistudio/claude-code-router):<br>- openrouter<br> |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| anthropics/claude-code<br><sup>via [claude-code-router](https://github.com/musistudio/claude-code-router)</sup> | |
 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 
