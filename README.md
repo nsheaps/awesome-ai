@@ -4,4 +4,5 @@ A collection of information ABOUT and FOR ai assistants, agents, and developers.
 
 If you are looking to contribute to this repo, see [CONTRIBUTING](./CONTRIBUTING.md).
 
-The 
+The documentation in this repo can also be viewed on github pages:
+- 
